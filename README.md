@@ -7,7 +7,7 @@
 ## Carrera
 Tecnicatura universitaria de Telecomunicaciones
 ## Materia
-Programacion
+Programación
 ## Programa Utilizado
 -PseInt
 -Python
