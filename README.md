@@ -4,10 +4,11 @@
 - Quiroga Diego
 - Chacón Perez Luis Alfredo 
 ## Carrera
-Tecnicatura universitaria en telecomunicaciones
+Tecnicatura universitaria de Telecomunicaciones
 ## Materia
 Programacion
 ## Programa Utilizado
 PseInt
 ## Descripción
-Breve descripción del TFI.
+Crear diferentes algoritmos que cumplan con las
+condiciones especificadas en los ejercicios. 
