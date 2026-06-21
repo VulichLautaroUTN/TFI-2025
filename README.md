@@ -9,7 +9,8 @@ Tecnicatura universitaria de Telecomunicaciones
 ## Materia
 Programacion
 ## Programa Utilizado
-PseInt
+-PseInt
+-Python
 ## Descripción
 Crear diferentes algoritmos que cumplan con las
-condiciones especificadas en los ejercicios. 
+Trabajo integrador correspondiente a la materia Programación, compuesto por un total de 10 ejercicios prácticos. En cada uno de ellos se aplican los contenidos desarrollados durante la cursada.
